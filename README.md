@@ -1,4 +1,3 @@
-#Personal Portfolio Website
+# Personal Portfolio Website
 
-##Deployed Link: 
-![https://portfolio-2qdx.onrender.com]
+Check out my personal portfolio website at [https://your-portfolio-link.com](https://portfolio-2qdx.onrender.com/).
